@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+email: "azaman@gtugs.org"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
@@ -16,12 +16,12 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Brunei Darussalam"
+organizerAlternateName: "Google Developer Group Brunei Darussalam"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "azlinux@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.gdg.com.bn/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -53,7 +53,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutTextValues: '"", "Season", "Brunei Darussalam", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -85,16 +85,16 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "Institute Teknologi Brunei"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventStreetAddress: "Jalan Tungku Link"
+eventAddressLocality: "Bandar Seri Begawan"
+eventAddressLocalityRegion: "Bandar Seri Begawan"
+eventPostalCode: "0000"
+eventAddressCountry: "Brunei Darussalam"
+eventStartTime: "2014-10-18T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventEndTime: "2014-10-19T17:00"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -169,20 +169,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/+gdgbn", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=gdgbrunei", icon: "twitter"}
+ - {link: "https://facebook.com/gdgbruneidarussalam", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.gdg.com.bn", text: "GDG.com.bn"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:azaman@gtugs.org", text: "azaman@gtugs.org"}
  -
   title: "FAQ"
   links:
@@ -268,17 +268,17 @@ prizes:
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
+hackathonLocationName: "ITB"
 hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
+hackathonStreetAddress: "Jalan Tungku Link"
+hackathonAddressLocality: "Bandar Seri Begawan"
+hackathonAddressLocalityRegion: "Tungku Link"
+hackathonPostalCode: "09000"
+hackathonAddressCountry: "Brunei Darussalam"
 hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonStartTime: "2014-10-18T08:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+hackathonEndTime: "2014-10-19T00:00"
 viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
